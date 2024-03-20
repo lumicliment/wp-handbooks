@@ -17,5 +17,6 @@ Swag:
 - Obsequio
 - Regalo
 
-### QR de este repositorio:
+
+## QR de este repositorio:
 ![qrcode_github-wp-handbooks](https://github.com/lumicliment/wp-handbooks/assets/148436250/af443056-a43d-4a11-900a-5b09901be1e7)
