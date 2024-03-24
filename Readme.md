@@ -10,7 +10,7 @@ Por último habría que revisar todos los enlaces internos para corregir redirec
 
 Contributor Day:
 - Día del Contribuidor
-- Día del Contribuyente
+- Día de la Comunidad
 - Día del Colaborador
 
 Swag:
